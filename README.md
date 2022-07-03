@@ -1,4 +1,4 @@
-[![Watch the video](./image/cloudnloud.png)](https://linkedin.com/in/vijaystack)
+[![Watch the video](./image/1.jpg)](https://linkedin.com/in/vijaystack)
 
 ## What is this?
 
